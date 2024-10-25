@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-309af59efc4db33afc66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RISKv2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RISKv2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RISKv2-Debug-2a2f59b560129917b39b.json",
+					"name" : "RISKv2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RISKv2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RISKv2_autogen-Debug-1abf4a8b2c45a169d9bc.json",
+					"name" : "RISKv2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RISKv2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RISKv2_autogen_timestamp_deps-Debug-223b0d662404cd77a10d.json",
+					"name" : "RISKv2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kayle/OneDrive/Documents/CapstoneCode/RISKv2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/kayle/OneDrive/Documents/CapstoneCode/RISKv2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

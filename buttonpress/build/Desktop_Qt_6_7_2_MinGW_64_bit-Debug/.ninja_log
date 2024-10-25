@@ -1,0 +1,16 @@
+# ninja log v6
+40	328	7479734831135301	buttonpress_autogen/timestamp	c1e33c8f5545640f
+40	328	7479734831135301	C:/Users/kayle/OneDrive/Documents/CapstoneCode/buttonpress/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/buttonpress_autogen/mocs_compilation.cpp	c1e33c8f5545640f
+2823	3099	7479734858976343	buttonpress.exe	ef6e054e4b72795e
+40	328	7479734831135301	buttonpress_autogen/mocs_compilation.cpp	c1e33c8f5545640f
+40	328	7479734831135301	C:/Users/kayle/OneDrive/Documents/CapstoneCode/buttonpress/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/buttonpress_autogen/timestamp	c1e33c8f5545640f
+1158	3852	7479732277271177	CMakeFiles/buttonpress.dir/main.cpp.obj	38567e34351feb8c
+1149	3812	7479732277181280	CMakeFiles/buttonpress.dir/buttonpress_autogen/mocs_compilation.cpp.obj	a45478f223e45a70
+329	2823	7479734834033716	CMakeFiles/buttonpress.dir/mainwindow.cpp.obj	8143f44e7243854d
+49	177	7480598852157542	buttonpress_autogen/timestamp	c1e33c8f5545640f
+49	177	7480598852157542	buttonpress_autogen/mocs_compilation.cpp	c1e33c8f5545640f
+49	177	7480598852157542	C:/Users/kayle/OneDrive/Documents/CapstoneCode/buttonpress/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/buttonpress_autogen/timestamp	c1e33c8f5545640f
+49	177	7480598852157542	C:/Users/kayle/OneDrive/Documents/CapstoneCode/buttonpress/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/buttonpress_autogen/mocs_compilation.cpp	c1e33c8f5545640f
+181	2458	7480598853482143	CMakeFiles/buttonpress.dir/circleitem.cpp.obj	1ecb1c134608a40e
+178	2469	7480598853436847	CMakeFiles/buttonpress.dir/mainwindow.cpp.obj	8143f44e7243854d
+2469	2909	7480598876361269	buttonpress.exe	e1a9d9e392e89d7a
